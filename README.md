@@ -60,11 +60,6 @@ ecommerce-analytics-portfolio/
 
 ## Tableau Public
 Update with your live links:
-- Executive Dashboard: `PASTE_TABLEAU_LINK_HERE`
-- RFM / Cohort Dashboard: `PASTE_TABLEAU_LINK_HERE`
-- Product Dashboard: `PASTE_TABLEAU_LINK_HERE`
-
-## GitHub Portfolio Tips
-- Add screenshots from Power BI and Tableau to `/docs`
-- Pin this repository on your GitHub profile
-- Keep README updated with final insights and links
+- Executive Dashboard: https://public.tableau.com/app/profile/angitha.anna.reji/vizzes
+- RFM / Cohort Dashboard: https://public.tableau.com/app/profile/angitha.anna.reji/vizzes
+- Product Dashboard: https://public.tableau.com/app/profile/angitha.anna.reji/vizzes

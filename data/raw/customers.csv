@@ -1,0 +1,21 @@
+customer_id,signup_date,country,state,city
+101,2023-01-05,US,NY,New York
+102,2023-02-10,US,CA,San Jose
+103,2023-03-15,US,TX,Austin
+104,2023-05-22,US,FL,Miami
+105,2023-07-03,US,WA,Seattle
+106,2023-08-18,US,IL,Chicago
+107,2023-09-01,US,MA,Boston
+108,2023-10-12,US,CO,Denver
+109,2024-01-09,US,GA,Atlanta
+110,2024-03-28,US,PA,Philadelphia
+111,2024-02-18,US,NC,Orlando
+112,2024-08-08,US,TX,Los Angeles
+113,2024-03-27,US,MA,Charlotte
+114,2024-02-18,US,TX,Detroit
+115,2024-05-26,US,NC,Portland
+116,2024-02-13,US,MI,Houston
+117,2024-09-17,US,NC,Portland
+118,2024-08-26,US,IL,Richmond
+119,2024-05-09,US,MA,Charlotte
+120,2024-03-18,US,GA,Houston
